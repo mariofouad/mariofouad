@@ -5,5 +5,7 @@
 - 💻 I’m a Computer Engineering Undergraduate at Cairo University
 - 🌱 I’m currently learning Software Engineering at ALX and AI at Zweil City
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mario-fouad/)
-## Languages and Tools:
+<br/>
+
+# Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=cpp,py,matlab,arduino,linux,git,github,ps,illustrator,visualstudio,vscode,stackoverflow)
