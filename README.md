@@ -6,7 +6,5 @@
 - 🌱 I’m currently learning Software Engineering at ALX and AI at Zweil City
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mario-fouad/)
 
-<br/>
-
 # Languages and Tools:
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,py,html,css,javascript,matlab,linux,git,arduino,github,visualstudio,vscode,stackoverflow,ps,illustrator)
