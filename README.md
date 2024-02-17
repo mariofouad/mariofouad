@@ -6,5 +6,5 @@
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mario-fouad/)
 
 # Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,py,html,css,javascript,matlab,nodejs,react,dart)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,py,html,css,javascript,matlab,nodejs,react,dart,flutter)
 ![My Skills](https://skillicons.dev/icons?i=linux,git,arduino,github,visualstudio,vscode,stackoverflow,ps,illustrator,androidstudio)
